@@ -1,4 +1,4 @@
-<img alt="banner" width="845" src="https://twitter-clone-app-southeast-1.s3.ap-southeast-1.amazonaws.com/images/gold+(1).png" />
+<img alt="banner" width="845" src="[https://twitter-clone-app-southeast-1.s3.ap-southeast-1.amazonaws.com/images/gold+(1).png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
 
 - 🔭 I’m currently working on **Cozrum**
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <div style="width: 50%; float: left;">
+  <div style="width: 50%; float: left; disl">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
