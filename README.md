@@ -1,4 +1,4 @@
-<img alt="banner" width="845" src="[https://twitter-clone-app-southeast-1.s3.ap-southeast-1.amazonaws.com/images/gold+(1).png](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" />
+<img alt="banner" width="845" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 - 🔭 I’m currently working on **Cozrum**
 
